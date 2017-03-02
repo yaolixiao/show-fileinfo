@@ -1,0 +1,11 @@
+{
+  "name": "show-fileinfo",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "show-fileinfo": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
